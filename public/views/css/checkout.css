@@ -1,0 +1,11 @@
+body{
+           background-color:rgb(238, 238, 238);;
+        /* margin: 0 150px; */
+    -webkit-font-smoothing: antialiased;
+    color: #2d2d2d;
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-size: .875rem;
+    font-weight: 400;
+    letter-spacing: .031rem;
+}

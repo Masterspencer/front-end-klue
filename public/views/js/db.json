@@ -1,0 +1,232 @@
+{
+    "users":[
+        {
+            "id": "1",
+            "firstName":"Charles",
+            "lastName":"Nwachebeli",
+            "gender":"male",
+            "email":"nwachebeluanthony@gmail.com",
+            "password":"1234567890",
+            "birthday": "05/07/1995",
+            "bodySize": "medium",
+            "bodySpec":{
+                        "chest": 41,
+                        "shoulderWIdth": 18,
+                        "sleeveLength":{
+                                        "shortSleeve": 9,
+                                        "longSleeve": 25
+                        },
+                        "backToWaist":20,
+                        "waist": 32,
+                        "hips": 40,
+                        "kneeLength": 18,
+                        "trouserLength": 38,
+                        "thighs": 22,
+                        "height": 174
+            }
+
+        }
+    ],
+    "SizeChart":[
+        {
+            "men":{
+                    "tops":{
+                            "medium":{
+                                        "chest": 41,
+                                        "shoulderWIdth": 18,
+                                        "sleeveLength":{
+                                                        "shortSleeve": 9,
+                                                        "longSleeve": 25
+                                        },
+                                        "backToWaist":20
+
+                            },
+                            "large":{
+                                         "chest": 41,
+                                         "shoulderWIdth": 18,
+                                         "sleeveLength":{
+                                                            "shortSleeve": 9,
+                                                            "longSleeve": 25
+                                         },
+                                         "backToWaist":20
+
+                            },
+                            "extraLarge":{
+                                            "chest": 41,
+                                            "shoulderWIdth": 18,
+                                            "sleeveLength":{
+                                                            "shortSleeve": 9,
+                                                            "longSleeve": 25
+                                             },
+                                            "backToWaist":20
+
+                            },
+                            "doubleExtraLarge":{
+                                                     "chest": 41,
+                                                "shoulderWIdth": 18,
+                                                "sleeveLength":{
+                                                                "shortSleeve": 9,
+                                                                "longSleeve": 25
+                                                              },
+                                                "backToWaist":20
+
+                            }
+                },
+                "bottoms":{
+                            "medium":{
+                                            "waist": 32,
+                                    "hips": 40,
+                                    "kneeLength": 18,
+                                    "trouserLength": 38,
+                                    "thighs": 22,
+                                    "height": 174
+
+                            },
+                            "large":{
+                                         "waist": 32,
+                                        "hips": 40,
+                                        "kneeLength": 18,
+                                        "trouserLength": 38,
+                                        "thighs": 22,
+                                        "height": 174
+
+                            },
+                            "extraLarge":{
+                                             "waist": 32,
+                                            "hips": 40,
+                                            "kneeLength": 18,
+                                            "trouserLength": 38,
+                                            "thighs": 22,
+                                            "height": 174
+
+                            },
+                            "doubleExtraLarge":{
+                                                "waist": 32,
+                                                "hips": 40,
+                                                "kneeLength": 18,
+                                                "trouserLength": 38,
+                                                "thighs": 22,
+                                                "height": 174
+
+                            }
+                }
+            },
+            "women":{
+                    "tops":{
+                            "medium":{
+                                        "bust": 41,
+                                        "shoulderWIdth": 18,
+                                        "sleeveLength":{
+                                                        "shortSleeve": 9,
+                                                        "longSleeve": 25
+                                        },
+                                        "backToWaist":20
+
+                            },
+                            "large":{
+                                         "bust": 41,
+                                         "shoulderWIdth": 18,
+                                         "sleeveLength":{
+                                                            "shortSleeve": 9,
+                                                            "longSleeve": 25
+                                         },
+                                         "backToWaist":20
+
+                            },
+                            "extraLarge":{
+                                            "bust": 41,
+                                            "shoulderWIdth": 18,
+                                            "sleeveLength":{
+                                                            "shortSleeve": 9,
+                                                            "longSleeve": 25
+                                             },
+                                            "backToWaist":20
+
+                            },
+                            "doubleExtraLarge":{
+                                                     "bust": 41,
+                                                "shoulderWIdth": 18,
+                                                "sleeveLength":{
+                                                                "shortSleeve": 9,
+                                                                "longSleeve": 25
+                                                              },
+                                                "backToWaist":20
+
+                            }
+                },
+                "bottoms":{
+                            "medium":{
+                                            "waist": 32,
+                                    "hips": 40,
+                                    "kneeLength": 18,
+                                    "trouserLength": 38,
+                                    "thighs": 22,
+                                    "height": 174
+
+                            },
+                            "large":{
+                                         "waist": 32,
+                                        "hips": 40,
+                                        "kneeLength": 18,
+                                        "trouserLength": 38,
+                                        "thighs": 22,
+                                        "height": 174
+
+                            },
+                            "extraLarge":{
+                                             "waist": 32,
+                                            "hips": 40,
+                                            "kneeLength": 18,
+                                            "trouserLength": 38,
+                                            "thighs": 22,
+                                            "height": 174
+
+                            },
+                            "doubleExtraLarge":{
+                                                "waist": 32,
+                                                "hips": 40,
+                                                "kneeLength": 18,
+                                                "trouserLength": 38,
+                                                "thighs": 22,
+                                                "height": 174
+
+                            }
+                }
+            }
+           
+        }
+    ],
+    "products":[
+        {
+            "id": "",
+            "image": "",
+            "title": "",
+            "description":"",
+            "category":"",
+            "type":"",
+            "price": "",
+            "quantity":"",
+            "quantityOrdered":"",
+            "quantityAvailable":"",
+            "variations":[
+                {
+                    "color":"",
+                    "image":"",
+                    "quantity":"",
+                    "size": ["medium", "large", "extraLarge", "doubleExtraLarge"]
+
+                }
+            ]
+        }
+    ],
+    "orders":[
+        {
+
+        }
+    ],
+    "cart":[
+        {
+
+        }
+    ]
+}
