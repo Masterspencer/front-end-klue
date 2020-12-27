@@ -1,0 +1,106 @@
+h1,h2,h3,h4,h5,h6,a,ul,li,p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+     -webkit-font-smoothing: antialiased;
+    color: #2d2d2d;
+    font-family: futura-pt,Tahoma,Geneva,Verdana,Arial,sans-serif;
+    font-style: normal;
+    font-size: .875rem;
+    font-weight: 400;
+    letter-spacing: .031rem;
+}
+
+.left{
+    float: left;
+      width: 60.6383%;
+}
+.cart{
+    width: 940px;
+    margin: 0 auto;
+}
+.bag, .delivery,.return{
+    background-color: white;
+    padding: 2rem 2rem;
+}
+.bag-item{
+    margin: 0.8rem 0;
+    width: 100%;
+
+}
+.cartProductImage{
+    width: 7rem;
+    height: 8.5rem;
+}
+.header{
+    padding: 1rem 0;
+}
+
+.close{
+    float: right;
+}
+.display-block{
+        display: inline-block;
+}
+.description{
+    margin-left: auto;
+    display: inline-block;
+    width: 17rem;
+    position: relative;
+    bottom: 3.8rem;
+    margin: 0 0.8rem;
+}
+
+.sub-total{
+    width: 15rem;
+    margin-left:auto;
+}
+.sub-total-price{
+    margin-left: 6.25rem;
+}
+.delivery, .return{
+    background-color: white;
+    margin: 0.7rem 0;
+}
+.checkout{
+    background-color: white;
+    width: 33%;
+    float: right;
+    padding: 2rem 1.5rem;
+}
+.cart-icon{
+    width: 3rem;
+    height: 3rem;
+}
+.delivery-desc{
+    position: relative;
+    /* bottom: 0.6rem; */
+    margin: 0 2rem;
+}
+.promo-code-form{
+    width: 75%;
+    height: 1.3rem;
+}
+.btn-promocode{
+    margin-right: auto;
+    padding: 0.25rem 0.8rem;
+}
+.btn-checkout{
+    width: 100%;
+    padding: 0.8rem ;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    background-color: green;
+    margin-top: 1rem;
+}
+table{
+    width: 100%;
+}
+.price{
+    margin-left: auto;
+    text-align: end;
+}
+/******** MEDIA QUERY *********/
